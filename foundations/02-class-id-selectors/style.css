@@ -1,0 +1,20 @@
+.odd {
+	background-color: LightPink;
+	font-family: "Verdana", "Dejavu Sans", sans-serif;
+}
+
+.odd.cool {
+	font-size: 24px;
+}
+
+#one {
+	color: blue;
+	font-size: 36px;
+}
+
+#two {
+	background-color: LightGreen;
+	font-size: 24px;
+	font-weight: bold;
+}
+
