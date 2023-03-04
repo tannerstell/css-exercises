@@ -8,7 +8,7 @@
 	color: black;
 }
 
-.buttons {
+.b1, .b2  { /* alternatively .buttons class rather than group selector */
 	font-size: 28px;
 	font-family: "Helvetica", "Times New Roman", sans-serif;
 }
